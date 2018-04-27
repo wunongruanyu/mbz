@@ -1,0 +1,51 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+.line {
+}
+.line1 {
+}
+._图片 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._流程形状 {
+  color:#333333;
+}
+._文本段落 {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._表格 {
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.icon {
+}
+.flow_shape {
+}
+.image {
+}
+.box_3 {
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
